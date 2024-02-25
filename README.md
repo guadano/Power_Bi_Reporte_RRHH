@@ -1,6 +1,6 @@
 # Power Bi - Reporte Recursos Humanos
  
-En este reporte se busca visualizar indicadores de **Colaboradores**, **Sueldos**, y **Desempeño** para el departamento de Recursos Humanos de la compañia ficticia **SKU-DON**. El reporte se compone de 3 páginas:
+En este reporte se busca visualizar indicadores de **Colaboradores**, **Sueldos**, y **Desempeño** para el departamento de Recursos Humanos de la compañia ficticia **Sweetums** de la serie **Parks and Recreation**. El reporte se compone de 3 páginas:
 
   **Página 1** | Total Colaboradores:
 
